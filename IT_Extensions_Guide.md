@@ -280,6 +280,7 @@
 - **Qoder**: Có thể là IDE hoặc code editor https://qoder.com/
 - **Void**: Có thể là Linux distro hoặc tool khác https://voideditor.com/
 - **Windsurf** : extension tích hợp AI https://windsurf.com/
+- **IBM Bob** : extension lên plan tích hợp AI https://bob.ibm.com/download
 ### Gợi Ý
 Nếu bạn tìm hiểu thêm về các công cụ này, hãy tìm kiếm:
 - **Tên chính xác** của công cụ
